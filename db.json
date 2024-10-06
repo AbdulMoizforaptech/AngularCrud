@@ -1,0 +1,225 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": "74ab",
+      "firstname": "Mr.",
+      "lastname": "Abdullah",
+      "email": "abdullah@gmail.com",
+      "dob": "1990-05-15T19:00:00.000Z",
+      "gender": "Male",
+      "qualification": "Bachelors",
+      "company": "Company 1",
+      "experience": 3,
+      "salary": 10000
+    },
+    {
+      "firstname": "Mr.",
+      "lastname": "Ali",
+      "email": "ali@gmail.com",
+      "dob": "1989-12-12T19:00:00.000Z",
+      "gender": "Male",
+      "qualification": "Intermediate",
+      "company": "Company 6",
+      "experience": 6,
+      "salary": 40000,
+      "id": "7j8k"
+    },
+    {
+      "id": "9l0m",
+      "firstname": "Ms.",
+      "lastname": "Sara",
+      "email": "sara@gmail.com",
+      "dob": "1994-02-28T19:00:00.000Z",
+      "gender": "Female",
+      "qualification": "Masters",
+      "company": "Company 7",
+      "experience": 3,
+      "salary": 60000
+    },
+    {
+      "id": "b1c2",
+      "firstname": "Mr.",
+      "lastname": "Hassan",
+      "email": "hassan@gmail.com",
+      "dob": "1987-04-18T19:00:00.000Z",
+      "gender": "Male",
+      "qualification": "Bachelors",
+      "company": "Company 8",
+      "experience": 8,
+      "salary": 95000
+    },
+    {
+      "id": "d3e4",
+      "firstname": "Ms.",
+      "lastname": "Leila",
+      "email": "leila@gmail.com",
+      "dob": "1993-09-14T19:00:00.000Z",
+      "gender": "Female",
+      "qualification": "Diploma",
+      "company": "Company 9",
+      "experience": 2,
+      "salary": 40000
+    },
+    {
+      "id": "f5g6",
+      "firstname": "Mr.",
+      "lastname": "Tariq",
+      "email": "tariq@gmail.com",
+      "dob": "1985-08-21T19:00:00.000Z",
+      "gender": "Male",
+      "qualification": "Masters",
+      "company": "Company 10",
+      "experience": 10,
+      "salary": 120000
+    },
+    {
+      "id": "h7i8",
+      "firstname": "Ms.",
+      "lastname": "Zara",
+      "email": "zara@gmail.com",
+      "dob": "1996-11-11T19:00:00.000Z",
+      "gender": "Female",
+      "qualification": "Bachelors",
+      "company": "Company 11",
+      "experience": 1,
+      "salary": 25000
+    },
+    {
+      "id": "j9k0",
+      "firstname": "Mr.",
+      "lastname": "Raza",
+      "email": "raza@gmail.com",
+      "dob": "1983-10-30T19:00:00.000Z",
+      "gender": "Male",
+      "qualification": "Diploma",
+      "company": "Company 12",
+      "experience": 9,
+      "salary": 90000
+    },
+    {
+      "id": "l1m2",
+      "firstname": "Ms.",
+      "lastname": "Nadia",
+      "email": "nadia@gmail.com",
+      "dob": "1988-03-15T19:00:00.000Z",
+      "gender": "Female",
+      "qualification": "Bachelors",
+      "company": "Company 13",
+      "experience": 7,
+      "salary": 85000
+    },
+    {
+      "id": "n3o4",
+      "firstname": "Mr.",
+      "lastname": "Khalid",
+      "email": "khalid@gmail.com",
+      "dob": "1986-06-22T19:00:00.000Z",
+      "gender": "Male",
+      "qualification": "Masters",
+      "company": "Company 14",
+      "experience": 12,
+      "salary": 115000
+    },
+    {
+      "id": "p5q6",
+      "firstname": "Ms.",
+      "lastname": "Mariam",
+      "email": "mariam@gmail.com",
+      "dob": "1997-01-01T19:00:00.000Z",
+      "gender": "Female",
+      "qualification": "Diploma",
+      "company": "Company 15",
+      "experience": 2,
+      "salary": 30000
+    },
+    {
+      "id": "r7s8",
+      "firstname": "Mr.",
+      "lastname": "Farhan",
+      "email": "farhan@gmail.com",
+      "dob": "1984-07-04T19:00:00.000Z",
+      "gender": "Male",
+      "qualification": "Bachelors",
+      "company": "Company 16",
+      "experience": 11,
+      "salary": 110000
+    },
+    {
+      "id": "t9u0",
+      "firstname": "Ms.",
+      "lastname": "Amina",
+      "email": "amina@gmail.com",
+      "dob": "1992-12-25T19:00:00.000Z",
+      "gender": "Female",
+      "qualification": "Masters",
+      "company": "Company 17",
+      "experience": 4,
+      "salary": 75000
+    },
+    {
+      "id": "v1w2",
+      "firstname": "Mr.",
+      "lastname": "Saad",
+      "email": "saad@gmail.com",
+      "dob": "1985-02-14T19:00:00.000Z",
+      "gender": "Male",
+      "qualification": "Bachelors",
+      "company": "Company 18",
+      "experience": 9,
+      "salary": 90000
+    },
+    {
+      "id": "x3y4",
+      "firstname": "Ms.",
+      "lastname": "Hira",
+      "email": "hira@gmail.com",
+      "dob": "1996-11-01T19:00:00.000Z",
+      "gender": "Female",
+      "qualification": "Masters",
+      "company": "Company 19",
+      "experience": 3,
+      "salary": 60000
+    },
+    {
+      "id": "z5a6",
+      "firstname": "Mr.",
+      "lastname": "Bilal",
+      "email": "bilal@gmail.com",
+      "dob": "1990-09-12T19:00:00.000Z",
+      "gender": "Male",
+      "qualification": "Bachelors",
+      "company": "Company 20",
+      "experience": 5,
+      "salary": 70000
+    },
+    {
+      "id": "879f",
+      "firstname": "Mr.",
+      "lastname": "Ahmad",
+      "email": "ahmad@gmail.com",
+      "dob": "2016-06-07T19:00:00.000Z",
+      "gender": "Male",
+      "qualification": "Diploma",
+      "company": "Company 21",
+      "experience": 4,
+      "salary": 50000
+    }
+  ]
+}
